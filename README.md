@@ -1,14 +1,14 @@
-# v-log
+# v_log
 log the things that you want when element is mounted
 
 ## Installation
 use npm :
 ```
-npm i v-log
+npm i v_log
 ```
 then use it in your main.js with:
 ```js
-import v_log from "v-log"
+import v_log from "v_log"
 createApp(/* ... */).use(v_log).mount(/* ... */)
 ```
 ## Usage
