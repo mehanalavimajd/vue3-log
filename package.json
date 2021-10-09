@@ -1,11 +1,11 @@
 {
-  "name": "v_log",
+  "name": "vue3-log",
   "version": "1.0.0",
-  "main": "./dist/v-log.umd.min.js",
+  "main": "./dist/vue3-log.umd.min.js",
   "description": "Just an useless vue 3 plugin for logging things",
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build --target lib --name v_log ./src/install.js"
+    "build": "vue-cli-service build --target lib --name vue3-log ./src/install.js"
   },
   "dependencies": {
     "core-js": "^3.6.5",

@@ -1,15 +1,15 @@
-# v_log
+# vue3-log
 log the things that you want when element is mounted
 
 ## Installation
 use npm :
 ```
-npm i v_log
+npm i vue3-log
 ```
 then use it in your main.js with:
 ```js
-import v_log from "v_log"
-createApp(/* ... */).use(v_log).mount(/* ... */)
+import vue_log3 from "vue-log3"
+createApp(/* ... */).use(vue_log3).mount(/* ... */)
 ```
 ## Usage
 ```html
